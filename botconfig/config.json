@@ -1,0 +1,48 @@
+{
+    "token": "COMPLETEAZA",
+    "prefix": ">",
+    "ownerIDS": [
+        "COMPLETEAZA"
+    ],
+    "fnbr": "COMPLETEAZA",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "RU1wyKWvni5",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": " dark-web.ro",
+        "type": "STREAMING",
+        "url": "https://twitch.tv/darkwebro"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "lava.link",
+                "port": 80,
+                "password": "youshallnotpass"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "COMPLETEAZA",
+        "clientID": "COMPLETEAZAa"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
